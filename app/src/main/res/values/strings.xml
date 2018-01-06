@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Theblog</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="login_title">Login</string>
+    <string name="create_act">Create Account</string>
+    <string name="post_title" />
+    <string name="postTitle">Post Title</string>
+    <string name="post_description">Post Description</string>
+    <string name="submit_text">Submit</string>
+    <string name="first_name">First Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="Ayuda">Ayuda</string>
+    <string name="Event_Title">Events</string>
+    <string name="Events">Events_Title</string>
+    <string name="title_activity_event_navigation">EventNavigation</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="title_activity_profile">ProfileActivity</string>
+    <string name="NewUser">New User?</string>
+    <string name="Or">OR</string>
+</resources>
